@@ -17,3 +17,12 @@ h3 {
     background-color: blanchedalmond;
     color: black;
 }
+
+#fuji {
+    height: 300px;
+    width: auto;
+}
+
+#location {
+    background-color: blanchedalmond;
+}
