@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     font-weight: 500px;
+    background-color: blanchedalmond;
 }
 
 #odin {
@@ -23,6 +24,7 @@ h3 {
     width: auto;
 }
 
-#location {
-    background-color: blanchedalmond;
+#list {
+    width: 400px;
+    height: auto;
 }
