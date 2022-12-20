@@ -12,6 +12,10 @@ h1 {
     height: auto;
 }
 
+h2 { 
+    text-decoration: underline;
+}
+
 h3 {
     text-align: center;
     background-color: blanchedalmond;
