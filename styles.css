@@ -1,3 +1,7 @@
+html {
+    box-sizing: border-box;
+}
+
 h1 {
     text-align: center;
     font-weight: 500px;
@@ -14,10 +18,19 @@ h3 {
     background-color: blanchedalmond;
 }
 
-.page {
+.links-list a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
     background-color: blanchedalmond;
     color: black;
 }
+
+.links-list a:hover {
+    background-color: gold;
+    color: black;
+}
+
 
 #fuji {
     height: 300px;
