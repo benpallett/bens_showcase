@@ -41,6 +41,20 @@ h3 {
     border: 2px solid blanchedalmond;
 }
 
+.home {
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid gold;
+    text-decoration: none;
+    background-color: blanchedalmond;
+    color: black;
+}
+
+.home:hover {
+    background-color: gold;
+    color: black;
+    border: 2px solid blanchedalmond;
+}
 
 #fuji {
     height: 300px;
