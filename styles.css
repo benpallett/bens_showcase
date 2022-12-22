@@ -31,8 +31,10 @@ h3 {
     margin: 5px;
     border: 2px solid gold;
     text-decoration: none;
+    text-align: center;
     background-color: blanchedalmond;
     color: black;
+    flex: 1;
 }
 
 .links-list a:hover {
