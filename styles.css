@@ -43,6 +43,13 @@ h3 {
     border: 2px solid blanchedalmond;
 }
 
+.home-nav {
+    display: flex;
+    justify-content: end;
+    
+}
+
+
 .home {
     padding: 10px;
     margin: 5px;
@@ -50,6 +57,7 @@ h3 {
     text-decoration: none;
     background-color: blanchedalmond;
     color: black;
+    
 }
 
 .home:hover {
